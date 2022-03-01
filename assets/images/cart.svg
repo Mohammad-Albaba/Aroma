@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="29" viewBox="0 0 30 29">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d4000c" stop-opacity="0.98"/>
+      <stop offset="0.485" stop-color="#d70b18"/>
+      <stop offset="1" stop-color="#be000d" stop-opacity="0.902"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_11215" data-name="Group 11215" transform="translate(-161 -6199)">
+    <g id="Group_11103" data-name="Group 11103" transform="translate(-78 5436)">
+      <g id="Group_10933" data-name="Group 10933" transform="translate(-80 -1)">
+        <g id="ic_shopping_cart_48px" transform="translate(317 767)">
+          <path id="Path_1139" data-name="Path 1139" d="M8.6,21.6a2.2,2.2,0,1,0,2.2,2.2A2.19,2.19,0,0,0,8.6,21.6ZM2,4V6.2H4.2l3.955,8.344-1.485,2.7A2.236,2.236,0,0,0,6.4,18.3a2.2,2.2,0,0,0,2.2,2.2H21.8V18.3H9.068a.272.272,0,0,1-.275-.275.261.261,0,0,1,.033-.132L9.81,16.1h8.2a2.207,2.207,0,0,0,1.925-1.133l3.933-7.139A1.063,1.063,0,0,0,24,7.3a1.1,1.1,0,0,0-1.1-1.1H6.637L5.592,4H2ZM19.6,21.6a2.2,2.2,0,1,0,2.2,2.2A2.19,2.19,0,0,0,19.6,21.6Z" fill="#7b7b81"/>
+        </g>
+      </g>
+      <g id="Group_11093" data-name="Group 11093" transform="translate(18 758)">
+        <circle id="Ellipse_125" data-name="Ellipse 125" cx="7" cy="7" r="7" transform="translate(237 5)" fill="url(#linear-gradient)"/>
+        <text id="_1" data-name="1" transform="translate(242 15)" fill="#fff" font-size="8" font-family="SFProText-Regular, SF Pro Text" letter-spacing="0em"><tspan x="0" y="0">1</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
